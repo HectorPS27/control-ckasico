@@ -7,4 +7,4 @@ segundos_faltan = dias_faltan * 24 * 60 * 60
 
 print(f"Esperando {dias_faltan} día(s) hasta el jueves...")
 time.sleep(segundos_faltan)
-print("Ya es jueves, salida programada ✅")
+print("Ya es jueves, peda programada ✅")
